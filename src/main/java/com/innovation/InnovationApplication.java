@@ -30,8 +30,6 @@ public class InnovationApplication implements CommandLineRunner {
 			System.out.println(user);
 		}
 		System.out.println();
-		//COMENTARIO PARA MAO HAGALE
-		
-
+		//COMENTARIO PARA MAO HAGALE, PARA SUBIR
 	}
 }
